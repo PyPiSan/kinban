@@ -1,0 +1,296 @@
+liblzma_la-index.lo: common/index.c ../../src/liblzma/common/index.h \
+  ../../src/liblzma/common/common.h ../../src/common/sysdefs.h \
+  ../../config.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stddef.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/__stddef_max_align_t.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/local/include/inttypes.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/inttypes.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/inttypes.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stdint.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/stdint.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/wchar_limits.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/cdefs.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/api-level.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/versioning.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/limits.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/limits.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/float.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/limits.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/posix_limits.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/local/include/stdlib.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/stdlib.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/alloca.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/wait.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/wait.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/malloc.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/stdio.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/int-ll64.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/bitsperlong.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/posix_types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/stddef.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/compiler_types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/compiler.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/posix_types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/posix_types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/pthread_types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stdarg.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/seek_constants.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/struct_file.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/xlocale.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_stdlib_inlines.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/assert.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stdbool.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/string.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/strcasecmp.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/strings.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_strings_inlines.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/memory.h \
+  ../../src/common/mythread.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/time.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/time.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/select.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/signal.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sigcontext.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/signal_types.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/signal.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/signal.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/signal.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/signal-defs.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/siginfo.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/siginfo.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/timespec.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/ucontext.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/user.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_signal_inlines.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/pthread.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sched.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/sched.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/time.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/errno.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/errno.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/errno.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/errno.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/errno-base.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_errno_inlines.h \
+  ../../src/common/tuklib_integer.h ../../src/common/tuklib_common.h \
+  ../../src/common/tuklib_config.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/byteswap.h \
+  /home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/endian.h \
+  ../../src/liblzma/api/lzma.h ../../src/liblzma/api/lzma/version.h \
+  ../../src/liblzma/api/lzma/base.h ../../src/liblzma/api/lzma/vli.h \
+  ../../src/liblzma/api/lzma/check.h ../../src/liblzma/api/lzma/filter.h \
+  ../../src/liblzma/api/lzma/bcj.h ../../src/liblzma/api/lzma/delta.h \
+  ../../src/liblzma/api/lzma/lzma12.h \
+  ../../src/liblzma/api/lzma/container.h \
+  ../../src/liblzma/api/lzma/stream_flags.h \
+  ../../src/liblzma/api/lzma/block.h ../../src/liblzma/api/lzma/index.h \
+  ../../src/liblzma/api/lzma/index_hash.h \
+  ../../src/liblzma/api/lzma/hardware.h \
+  ../../src/liblzma/common/stream_flags_common.h
+
+../../src/liblzma/common/index.h:
+
+../../src/liblzma/common/common.h:
+
+../../src/common/sysdefs.h:
+
+../../config.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stddef.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/__stddef_max_align_t.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/local/include/inttypes.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/inttypes.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/inttypes.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stdint.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/stdint.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/wchar_limits.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/api-level.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/versioning.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/limits.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/limits.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/float.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/limits.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/posix_limits.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/local/include/stdlib.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/stdlib.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/alloca.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/wait.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/wait.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/malloc.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/stdio.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/int-ll64.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/posix_types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/stddef.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/compiler_types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/compiler.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/posix_types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/posix_types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/pthread_types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stdarg.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/seek_constants.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/struct_file.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/xlocale.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_stdlib_inlines.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/assert.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/8.0.2/include/stdbool.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/string.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/strcasecmp.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/strings.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_strings_inlines.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/memory.h:
+
+../../src/common/mythread.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/time.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/time.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/select.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/signal.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sigcontext.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/signal_types.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/signal.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/signal.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/signal.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/signal-defs.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/siginfo.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/siginfo.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/bits/timespec.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/ucontext.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/user.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_signal_inlines.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/pthread.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sched.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/sched.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/time.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/errno.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/linux/errno.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android/asm/errno.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/errno.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/asm-generic/errno-base.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/android/legacy_errno_inlines.h:
+
+../../src/common/tuklib_integer.h:
+
+../../src/common/tuklib_common.h:
+
+../../src/common/tuklib_config.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/byteswap.h:
+
+/home/sanjeev/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/../sysroot/usr/include/sys/endian.h:
+
+../../src/liblzma/api/lzma.h:
+
+../../src/liblzma/api/lzma/version.h:
+
+../../src/liblzma/api/lzma/base.h:
+
+../../src/liblzma/api/lzma/vli.h:
+
+../../src/liblzma/api/lzma/check.h:
+
+../../src/liblzma/api/lzma/filter.h:
+
+../../src/liblzma/api/lzma/bcj.h:
+
+../../src/liblzma/api/lzma/delta.h:
+
+../../src/liblzma/api/lzma/lzma12.h:
+
+../../src/liblzma/api/lzma/container.h:
+
+../../src/liblzma/api/lzma/stream_flags.h:
+
+../../src/liblzma/api/lzma/block.h:
+
+../../src/liblzma/api/lzma/index.h:
+
+../../src/liblzma/api/lzma/index_hash.h:
+
+../../src/liblzma/api/lzma/hardware.h:
+
+../../src/liblzma/common/stream_flags_common.h:
